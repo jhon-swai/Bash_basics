@@ -7,6 +7,8 @@ This repository is all about the bash commands
 ### 4. Conditional
 ### 5. Looping
 ### 6. Automating tasks
+### 7. File management
+
 We will begin by automating git commits
 
 ## Goal
