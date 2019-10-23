@@ -33,7 +33,7 @@ ls
 ```
 ls -A
 ```
-### open a file(folder with files) using a text editer like atom, vim, gedit
+### open a file(folder with files) using a text editor like atom, vim, gedit
 ```
 atom file-name.html
 or
